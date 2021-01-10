@@ -7,5 +7,6 @@ public class HelloGit {
         System.out.println("update2");
         System.out.println("create branch1");
         System.out.println("master add");
+        System.out.println("dev add");
     }
 }
