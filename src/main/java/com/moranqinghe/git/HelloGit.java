@@ -9,6 +9,6 @@ public class HelloGit {
         System.out.println("master add");
         System.out.println("dev add");
         System.out.println("在线编辑");
-        System.out.println("clone project");
+        System.out.println("clone project!!!");
     }
 }
